@@ -24,10 +24,3 @@ zcat /proc/config.gz > .config
 
 mv .config linux-3.17.3/
 
-#todo add the bit to configure the make/build file oldconfig menuconfig
-
-make -j3 bzImage
-make -j3 modules
-make
-make install
-make modules_install
