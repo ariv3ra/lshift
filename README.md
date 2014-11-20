@@ -1,6 +1,6 @@
 lshift
 ======
-Install OpenShift on Linode Custom Kernels using the CentOS 7 images
+Install OpenShift on Linode Custom Kernels using the CentOS 6.5 image
 
 #Note: This is not complete at all :-)
 
@@ -10,7 +10,7 @@ This project guides users in creating a custom linux kernel that will enable you
 
 ###Prerequisites:
 
-* Build a new CentOS (version 7) Linode [See this Getting Started Guide](https://www.linode.com/docs/getting-started)
+* Build a new CentOS (version 6.5) Linode [See this Getting Started Guide](https://www.linode.com/docs/getting-started)
 
 ###ToDo Stuff
 
